@@ -1,0 +1,4 @@
+Problem_4:
+I assigned a pointer to where the next 0 and 2 must be added.Following this thing the 1's sorted themselves automatically and the array got sorted in one pass
+Time Complexity:O(n),one loop
+Space Complexity:O(1) no extra space used
